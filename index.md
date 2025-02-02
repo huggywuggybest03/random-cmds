@@ -2,7 +2,7 @@
 - This is just me finding commands to use in Linux, Windows, etc.
 
 **Download Coding Languages:**
-[NodeJS](https://nodejs.org/en/download/) - has Windows, MacOS and Linux distros
+[NodeJS](https://nodejs.org/en/download/)
 [Python Windows](https://www.python.org/downloads/)
 [Python Linux](https://www.python.org/downloads/source/)
 [Python MacOS](https://www.python.org/downloads/macos/)
