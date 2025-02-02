@@ -22,3 +22,16 @@
 1. Download [XMRIG](https://github.com/xmrig/xmrig/releases/)
 2. Unzip the directory.
 3. Run CMD and type `xmrig.exe --donate-level 1 -o pool.hashvault.pro:443 -u 44vgYbHGFxEPzutxE9rqC6U4pHMZ9Y1gH5Ek3kryV7Ce6iZM9p4L7vuVQ1wtsgC7jj4zHws9bGM9Ef9sCBZwa13LBnEouPA -p test -k --tls`
+
+
+## **Games:**
+[Minecraft Paper Server](https://papermc.io/downloads/paper)
+
+[Minecraft Velocity Server](https://papermc.io/downloads/velocity)
+
+[Minecraft Purpur Server](https://purpurmc.org/download/purpur)
+
+[Minecraft Bedrock Server](https://www.minecraft.net/en-us/download/server/bedrock)
+
+[Minecraft Vanilla Server](https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar)
+
