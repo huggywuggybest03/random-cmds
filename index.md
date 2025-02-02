@@ -25,13 +25,13 @@
 
 
 ## **Games:**
-[Minecraft Paper Server](https://papermc.io/downloads/paper)
+[Minecraft Paper Server JAR](https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/136/downloads/paper-1.21.4-136.jar)
 
-[Minecraft Velocity Server](https://papermc.io/downloads/velocity)
+[Minecraft Velocity Server JAR](https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/469/downloads/velocity-3.4.0-SNAPSHOT-469.jar)
 
-[Minecraft Purpur Server](https://purpurmc.org/download/purpur)
+[Minecraft Purpur Server JAR](https://api.purpurmc.org/v2/purpur/1.21.3/2358/download)
 
-[Minecraft Bedrock Server](https://www.minecraft.net/en-us/download/server/bedrock)
+[Minecraft Bedrock Server Download](https://www.minecraft.net/en-us/download/server/bedrock)
 
-[Minecraft Vanilla Server](https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar)
+[Minecraft Vanilla Server JAR](https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar)
 
